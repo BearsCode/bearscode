@@ -1,6 +1,7 @@
 ![Header](https://github.com/BearsCode/bearscode/blob/main/assets/Header.png)
-## Hi, I'm Emil.
-My hobbies are programming, language learning, self-development, psychology.
+## *Hi, I'm Emil.*
+## My hobby:
+programming, language learning, self-development, investment, psychology.
 I Study Python, Database, Cybersecurity.
 
 ### Languages and Tools:
